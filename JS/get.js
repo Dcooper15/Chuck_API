@@ -6,5 +6,7 @@ function get(url) {
     })
     .then(function (data)  { //Step 3: Return the data from the response.json() method
         return data;
+        
     })
 }
+
